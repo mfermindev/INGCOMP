@@ -18,7 +18,9 @@ _Cursiva_
 Este repositorio es un programa de python
 ```Python
 # Comentario!
-import this
+def funcionSuma(num1, num2):
+   res=sum1+sum2
+   return res
 ```
 
 1. Primer elemento de la lista
